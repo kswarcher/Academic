@@ -1,0 +1,27 @@
+ply
+format ascii 1.0
+comment Created by Blender 2.82 (sub 7) - www.blender.org, source file: ''
+element vertex 7
+property float x
+property float y
+property float z
+property float nx
+property float ny
+property float nz
+property uchar red
+property uchar green
+property uchar blue
+property uchar alpha
+element face 3
+property list uchar uint vertex_indices
+end_header
+300.000000 450.000000 0.000016 0.000000 -0.000000 1.000000 255 145 62 255
+350.000000 300.000000 0.000033 0.000000 -0.000000 1.000000 255 136 9 255
+350.000000 500.000000 0.000016 0.000000 -0.000000 1.000000 255 145 62 255
+400.000000 400.000000 0.000016 0.000000 -0.000000 1.000000 255 145 62 255
+450.000000 300.000000 0.000016 0.000000 -0.000000 1.000000 255 136 0 255
+450.000000 500.000000 0.000016 0.000000 -0.000000 1.000000 255 145 62 255
+500.000000 450.000000 0.000016 0.000000 -0.000000 1.000000 255 145 62 255
+3 0 2 3
+3 3 1 4
+3 3 6 5

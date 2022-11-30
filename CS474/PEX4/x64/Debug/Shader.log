@@ -1,0 +1,48 @@
+﻿  draw.cpp
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(39,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(51,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(52,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(53,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(221,20): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(221,80): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(222,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(222,82): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(227,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(230,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(235,18): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(236,39): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(237,99): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\draw.cpp(394,39): warning C4244: 'argument': conversion from 'double' to 'const T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Shader.vcxproj -> C:\Users\Alex\Desktop\Shader (1)-20220127T222957Z-001\Pex2\x64\Debug\Shader.exe

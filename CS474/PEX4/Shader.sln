@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shader", "Shader.vcxproj", "{A7DD6BDE-4519-43BE-8FF9-6550DCF49131}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{17B8BE88-378F-4F6B-8AFD-0DE156CAE55A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Shader\MulitpleTrianglesLayered\MultipleTrianglesLayered.Scene.ply = ..\..\Shader\MulitpleTrianglesLayered\MultipleTrianglesLayered.Scene.ply
+		..\..\Shader\MultipleTrianglesSwappedVertex\MultipleTrianglesSwappedVertex.scene.ply = ..\..\Shader\MultipleTrianglesSwappedVertex\MultipleTrianglesSwappedVertex.scene.ply
+		..\..\Shader\MulitpleTriangles\MultiTriangle.Scene.ply = ..\..\Shader\MulitpleTriangles\MultiTriangle.Scene.ply
+		MulitpleTriangles\MultiTriangle.Scene.txt = MulitpleTriangles\MultiTriangle.Scene.txt
+		..\..\Shader\MulitpleTriangles\MultiTriangle.Scene.txt = ..\..\Shader\MulitpleTriangles\MultiTriangle.Scene.txt
+		TriangleScene\output.bmp = TriangleScene\output.bmp
+		ImageSpaceTests\Pex2Teapot.scene.ply = ImageSpaceTests\Pex2Teapot.scene.ply
+		..\..\PEX2 Tests\CameraSpaceTest\Pex2Triangle.scene.txt = ..\..\PEX2 Tests\CameraSpaceTest\Pex2Triangle.scene.txt
+		..\..\PEX2 Tests\CameraSpaceTest\Pex2TriangleCamSpace.scene.ply = ..\..\PEX2 Tests\CameraSpaceTest\Pex2TriangleCamSpace.scene.ply
+		..\..\PEX2 Tests\CameraSpaceTest\Pex2TriangleCamSpace.scene.txt = ..\..\PEX2 Tests\CameraSpaceTest\Pex2TriangleCamSpace.scene.txt
+		SquareScene\Square.Scene.txt = SquareScene\Square.Scene.txt
+		Test\Test.Scene.ply = Test\Test.Scene.ply
+		TriangleScene\Triangle.Scene.bmp = TriangleScene\Triangle.Scene.bmp
+		TriangleScene\Triangle.Scene.ply = TriangleScene\Triangle.Scene.ply
+		TriangleScene\Triangle.Scene.txt = TriangleScene\Triangle.Scene.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7DD6BDE-4519-43BE-8FF9-6550DCF49131}.Debug|x64.ActiveCfg = Debug|x64
+		{A7DD6BDE-4519-43BE-8FF9-6550DCF49131}.Debug|x64.Build.0 = Debug|x64
+		{A7DD6BDE-4519-43BE-8FF9-6550DCF49131}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7DD6BDE-4519-43BE-8FF9-6550DCF49131}.Debug|x86.Build.0 = Debug|Win32
+		{A7DD6BDE-4519-43BE-8FF9-6550DCF49131}.Release|x64.ActiveCfg = Release|x64
+		{A7DD6BDE-4519-43BE-8FF9-6550DCF49131}.Release|x64.Build.0 = Release|x64
+		{A7DD6BDE-4519-43BE-8FF9-6550DCF49131}.Release|x86.ActiveCfg = Release|Win32
+		{A7DD6BDE-4519-43BE-8FF9-6550DCF49131}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {391C518D-73C5-4F26-ABEC-327C8AFAB7BD}
+	EndGlobalSection
+EndGlobal

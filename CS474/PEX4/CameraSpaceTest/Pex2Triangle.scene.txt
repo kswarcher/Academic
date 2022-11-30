@@ -1,0 +1,3 @@
+# Pex 2 Scene with single triangle
+# Update the location below to where you save the obj on your computer
+m Pex2TriangleCamSpace.Scene.ply

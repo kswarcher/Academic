@@ -1,0 +1,27 @@
+#Lights
+#Ambient Light       A R G B 
+#Point Light         L X Y Z R G B
+A 1.0 1.0 1.0 
+L 0.0 0.0 -1.0    1.0 1.0 1.0
+
+#Camera
+#Position            c X Y Z
+#Look at             l X Y Z 
+#Up vector           u X Y Z
+#FOV (degrees)       f XX.X
+c 0.0 0.0 3.0
+l 0.0 0.0 0.0 
+u 0.0 1.0 0.0
+f 45.0
+
+#Model            
+#File Name   	      m filename
+#Ambient Coefficient  a R G B
+#Diffuse Coefficient  d R G B
+#Specular Coefficient s R G B
+#Specular Power       r X.XX
+a 0.1 0.1 0.1
+d 0.7 0.7 0.7
+s 0.3 0.3 0.3
+r 32.0
+m Pex2TriangleImageSpace.scene.ply
